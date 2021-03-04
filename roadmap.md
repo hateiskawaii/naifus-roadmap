@@ -38,7 +38,7 @@ Advances in decentralized hosting technology like IPFS and the Internet Computer
 
 These are all really big asks and is frankly, decades of work for a small team - but the further we get, the more interesting the project becomes. The phases of development are as follows:
 
-##### Unhinged Waifu Offering and Beta Ruleset (UWU)
+##### Unhinged Waifu Underwriting and Beta Ruleset (UWU)
 
 The first series of Game Cards that are designed by humans will be launched in a free-for-all NFT token sale with ERC721 metadata APIs residing at api.naifu.cafe.
 Game Cards will be released in batches of 10-100, and special cards may be minted. All minted tokens will be for sale by auction directly. "Secret" tokens that users want for themselves for the card game may come later (ex - getting a copy of a card with special user art). Anyone who wants that functionality will have to wait until the features are developed internally.
@@ -52,10 +52,21 @@ The game will be launched as a website/web application with a desktop client on 
 Target Date: Q4 2021
 
 
+
 ##### Data Pipelineing for Training:
 To train the GANs for generative artwork and rule text - data collection will have to begin on the core game app.
 
 Target Date: TBD 2022
+
+##### Announcement of Governance Token, Launch, and Inclusion in Mint-Voting.
+
+In order to decentralize, the cards that are minted from a rules perspective will need to be voted on. The proper solution to this is the launch of governance tokens that bootstrap the network. This will also help train the various AIs by providing direct user feedback to the rules-text generative model. 
+
+Target Date: TBD 2022
+
+##### Launch Mint-Voting for all card types:
+
+Decentralization requires AI generation of cards, but users need to be able to decide what cards are minted. As the governance token mining starts to ramp up with a rewards program, the users will be able to decide what cards go into the cardpool
 
 ##### AI Model Building and Testing:
 
